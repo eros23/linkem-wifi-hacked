@@ -16,3 +16,8 @@ Compila con il comando:
 Esegui con:
 
 `./a.out GMK170709001234 A1B285`
+
+
+## Altre vulnerabilità Linkem
+
+Curioso? Vai [Linkem - Bug nell'Infrastruttura di Rete](https://github.com/eros23/linkem)
