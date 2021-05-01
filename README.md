@@ -12,7 +12,7 @@ Ad esempio per il router con numero di serie "GMK170210001234" ed ESSID "Linkem2
 
 Compila con il comando:
 
-`gcc linkem_pass.c -lcrypto -o linkem_pass`
+`gcc linkem_pass.c -lcrypto`
 
 Esegui con:
 
